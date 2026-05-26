@@ -1,5 +1,10 @@
 # CIS 288 — Lab 02: Cloud Account Setup (AWS | Azure | GCP)
 
+**
+ACCIDENTALLY MADE A REPO WITHOUT FORKING ASSIGNMENT. ITS STILL UP
+**
+
+
 **Course:** CIS 288 Cloud Computing — Community College of Philadelphia
 **Due:** Sunday, May 25, 2026 by 11:59 PM
 **Points:** 10
@@ -43,8 +48,8 @@ Before you can do anything hands-on in this course, you need active accounts on 
 ### AWS Screenshots Required:
 | Screenshot | Your Filename |
 |---|---|
-| AWS Console home page — logged in (account name visible top-right) | |
-| Billing → Credits page showing $100 promotional credit applied | |
+| AWS Console home page — logged in (account name visible top-right) | AWS Homepage |
+| Billing → Credits page showing $100 promotional credit applied | AWS Credit |
 
 ---
 
@@ -70,8 +75,8 @@ Before you can do anything hands-on in this course, you need active accounts on 
 ### Azure Screenshots Required:
 | Screenshot | Your Filename |
 |---|---|
-| Azure Portal home page — logged in (your name visible top-right) | |
-| Subscriptions → Azure subscription 1 showing $100 credit balance | |
+| Azure Portal home page — logged in (your name visible top-right) | AZURE Homepage |
+| Subscriptions → Azure subscription 1 showing $100 credit balance | AZURE Credit |
 
 ---
 
@@ -98,10 +103,10 @@ Before you can do anything hands-on in this course, you need active accounts on 
 ### GCP Screenshots Required:
 | Screenshot | Your Filename |
 |---|---|
-| GCP Console home — logged in showing your project name (CIS288-YourName) | |
-| Billing page showing your $50 CCP promotional credit applied | |
-| Confirmation email from Google with coupon code (blur the actual code) | |
-
+| GCP Console home — logged in showing your project name (CIS288-YourName) | GCP Homepage |
+| Billing page showing your $50 CCP promotional credit applied | GCP Credit |
+| Confirmation email from Google with coupon code (blur the actual code) | GCP email conf |
+ 
 ---
 
 ## Part 4 — Verify All Three Consoles
